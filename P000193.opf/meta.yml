@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ༄༅། །དབུ་མའི་གཞུང་ལུགས་གསུམ་གསལ་བར་བྱེད་པ་ངེས་དོན་གྲུབ་པའི་ཤིང་རྟ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  sku: KS-PK-07
+  layers:
+  - book_title
+  - author
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Chariot to Accomplish the Definitive Attainment:An Explanation of Three
+      Treatises on the Middle Way
+    bo: དབུ་མའི་གཞུང་ལུགས་གསུམ་གསལ་བར་བྱེད་པ་ངེས་དོན་གྲུབ་པའི་ཤིང་རྟ་ཞེས་བྱ་བ་བཞུགས་སོ།
+      །
+  collection:
+    en: Pema Karpo Series–  Book 7
+    bo: ཀུན་མཁྱེན་གཞུང་འགྲེལ།–  དེབ། ༧
+  author:
+    en: Kunkhyen Pema Karpo
+    bo: ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  pusblisher:
+    en: Gautam Buddha Vihara
+    bo: དོན་བརྒྱུད་དཔལ་ལྡན་འབྲུག་པ།
+  sku: KS-PK-07
+  category:
+    en: Madhyamika
+    bo: དབུ་མ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-PK-07.epub
+  description:
+    en: ''
+    bo: ''
