@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000193
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དབུ་མའི་གཞུང་ལུགས་གསུམ་གསལ་བར་བྱེད་པ་ངེས་དོན་གྲུབ་པའི་ཤིང་རྟ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: KS-PK-07
   layers:
   - book_title
   - author
   - tsawa
   - quotation
   - sabche
+  id: KS-PK-07
 web_metadata:
   title:
     en: A Chariot to Accomplish the Definitive Attainment:An Explanation of Three
